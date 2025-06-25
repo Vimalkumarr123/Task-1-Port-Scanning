@@ -39,7 +39,7 @@ IP Address	Device Name	Open Ports & Services	MAC Vendor
 192.168.XX.XXX	Redmi-TV.lan	1900 (SSDP), 8016, 8080, 8093	Unknown
 192.168.XX.XXX	kali.lan	None (All ports closed)	My own device
 
-
+```
 
 
 
